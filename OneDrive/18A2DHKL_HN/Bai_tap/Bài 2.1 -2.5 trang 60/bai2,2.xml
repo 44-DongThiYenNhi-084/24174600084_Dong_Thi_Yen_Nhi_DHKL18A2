@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds_sinhvien>
+    <sinh_vien>
+        <ma_sv> 24174600084 </ma_sv>
+        <ten> Dong Thi Yen Nhi </ten>
+        <namsinh> 2006 </namsinh>
+        <lop> 18A2 </lop>
+        <gioitinh> Nu </gioitinh>
+    </sinh_vien>
+    
+    
+    <sinh_vien> 
+        <ma_sv> 23678474794 </ma_sv>
+        <ten> Nguyen Van C  </ten>
+        <namsinh> 2006 </namsinh>
+        <lop> 18A2 </lop>
+        <gioitinh> Nam </gioitinh>
+    </sinh_vien>
+
+
+    <sinh_vien>
+        <ma_sv> 233438575873 </ma_sv>
+        <ten> Bui Thi B </ten>
+        <namsinh> 2006 </namsinh>
+        <lop> 18A2 </lop>
+        <gioitinh> Nu </gioitinh>
+    </sinh_vien>
+</ds_sinhvien>
